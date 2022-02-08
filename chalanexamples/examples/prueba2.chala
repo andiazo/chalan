@@ -1,0 +1,8 @@
+var matrix [a, b]
+matrix <- [[1,2,3],[4,5,6]]
+matrix <- [[7,8,9],[10,11,12]]
+
+matrix
+
+dotop(matrix,2,1,1)
+
