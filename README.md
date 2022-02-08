@@ -3,6 +3,8 @@
 
 Lenguaje de propósito especifico para el problema de dos vias de clasificacion y el problema estadístico de rachas
 
+El lenguaje toma su nombre de la unión entre el sufijo de racha (CHA) y el prefijo de language (LAN).
+
 ## Instalación
 
 La primera vez que ese use este programa debe ejecutarse lo siguiente. (En el directorio del proyecto)
