@@ -1,0 +1,14 @@
+var matrix [a, b, c]
+matrix <- [[4,6,5],[1,3,2],[7,8,9]]
+matrix <- [[13,14,15],[16,17,18],[10,11,12]]
+
+matrix
+
+
+dotop(matrix,0,0,0)
+dotop(matrix,1,0,0)
+dotop(matrix,0,1,0)
+dotop(matrix,0,0,1)
+dotop(matrix,2,1,1)
+
+rachas(matrix,0,0,0)
